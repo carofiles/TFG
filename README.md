@@ -1,7 +1,5 @@
 # YOLO-Pose para análisis de ejercicios de rehabilitación de rodilla
 
-Proyecto de TFG para extracción y análisis temporal de pose humana en ejercicios de rehabilitación mediante YOLO-Pose.
-
 > Estado actual: fase de validación de keypoints. Los ángulos articulares no deben interpretarse todavía como mediciones validadas.
 
 ## Pipeline
@@ -148,9 +146,3 @@ Antes de sacar conclusiones biomecánicas hay que comparar las predicciones con 
 7. Detectar repeticiones.
 8. Estudiar criterios objetivos de ejecución.
 
-## Autoría
-
-Proyecto desarrollado como parte de un Trabajo de Fin de Grado.
-
-**Autor:** Carlos Mata  
-**Institución:** Universidad Complutense de Madrid
